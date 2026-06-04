@@ -16,9 +16,17 @@ This file examines and generates graphs based on the content of the U.S. Departm
 
 This file creates two graphs based on dataset 2 comparing the university prestige factors with student success variables. It can be run to visualize connections between the variables within dataset 2 and draw conclusions based on the statistics given. 
 
+### DataSet 2 Test 
+
+This file tests the dataset2 file by creating a small test file and using assert statements to make sure the methods are working correctly. It can be run to check that methods are working correctly and the dataset is being accurately read and cleaned.
+
 ## Dataset 3
 
 This file examines and generates graphs based on the content in the kagglehub College Completion and Efficiency Measures for US. It reads in the file and computes variable statistics for our chosen variables of interest. It also creates two seaborn graphs that examine factors of university prestige against student success. It helps break down and evaluate the data of universities to answer our research question and is later combined with another dataset to find true correlations. It can be run to summarize and clean the data in the chosen dataset.
+
+### DataSet 3 Test 
+
+This file tests the dataset3 file by creating a small test file and using assert statements to make sure the methods are working correctly. It can be run to check that methods are working correctly and the dataset is being accurately read and cleaned.
 
 ## Merged Dataset 1
 
